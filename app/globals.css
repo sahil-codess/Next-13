@@ -137,3 +137,11 @@ form button {
     absolute bottom-0 right-0 
     rounded-tl-md;
 }
+
+.spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  font-size: 24px;
+}
